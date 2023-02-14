@@ -1,6 +1,6 @@
 - 👋 Hi, I'm JINJOO, HONG.
 - 🌱 I’m currently learning Back-End developing.
-- 📫 How to reach me : 446618@gmail.com
+- 📫 How to contact me : 446618@gmail.com
 
 <!--
 **jxnjuvv/jxnjuvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
